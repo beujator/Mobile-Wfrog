@@ -1,0 +1,9 @@
+.current-temperature
+{
+  padding-top: 0.5em;
+  line-height: 0.25em;
+  text-align: center;
+  color: rgba(0,0,0,1);
+  font-size: 6em;
+  font-family: 'bariol_bold',       sans-serif;
+}
